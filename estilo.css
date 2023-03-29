@@ -1,0 +1,76 @@
+*{
+    margin: 10px;
+}
+
+h1{
+    
+    text-align: right;
+    background-color: #C9EEFF;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-shadow: 5px 5px 5px #DF2E38;
+    font-size: 50px;
+    font-style: italic;
+}
+body{
+    font-family: sans-serif;
+    background-color: #97DEFF;
+}
+
+.thumb1{
+    background-color: #BFDCE5;
+    text-align: left;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-shadow: 5px 5px 5px #159895;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.thumb2{  
+     
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-shadow: 5px 5px 5px #3A1078;
+    font-size: 50px;
+    font-style: italic;
+}
+audio{
+    background-color: blue;
+    text-align: center;
+    box-shadow: 5px 5px 5px #3E54AC;
+}
+.thumb3{
+    background-color: #BFACE2;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-shadow: 5px 5px 5px #3A1078;
+    font-size: 20px;
+    font-style: italic;
+}
+.thumb4{
+    background-color: #FFD495;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-shadow: 5px 5px 5px #DF7857;
+    font-size: 20px;
+    font-style: italic;
+}
+audio3{
+    text-align: center;
+    box-shadow: 5px 5px 5px #3E54AC;
+}
+.principal{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 50px;
+    font-style: italic;
+
+
+}
